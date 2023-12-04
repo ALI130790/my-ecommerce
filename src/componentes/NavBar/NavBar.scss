@@ -1,0 +1,25 @@
+#navbar{
+    border-bottom: 2px solid rgb(10, 6, 4);
+   display: flex;
+   justify-content: space-between;
+   font-size: 20px;
+   margin: 20px;
+}
+
+#navbar:hover{
+    cursor: pointer;
+    color: coral;
+}
+#cartwidget{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 40px;
+}
+#cartwidget:hover{
+ cursor: pointer;
+ color: coral;
+}
+#cartwidget p{
+    margin: 0 5px;
+}
